@@ -6,14 +6,14 @@ Project Highlights
   across 52 fields.
   
 • Solved 18 real-world
-  business questions
+   business questions
   
 • Performed end-to-end data
-  cleaning and transformation.
+   cleaning and transformation.
   
 • Built KPIs and interactive
-  dashboards to generate
-  actionable business insights.
+   dashboards to generate
+   actionable business insights.
   
 • Demonstrated
   cross-platform analytics and
